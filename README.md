@@ -9,7 +9,7 @@ Everything runs on your computer.
 
 ## Download
 
-**[⬇ Latest release](https://github.com/mosheisraelov01-gif/devmarshal/releases/latest)**
+**[⬇ Latest release](https://github.com/MBdeveleopmentS/devmarshal/releases/latest)**
 
 | System | File | How |
 |---|---|---|
@@ -29,7 +29,7 @@ Settings). It never downloads or installs anything by itself.
 
 DevMarshal מפעיל את כלי הקוד מבוססי ה-AI שכבר יש לך (Codex, ‏Claude Code, ‏Gemini CLI או מודל מקומי דרך Ollama)
 כצוות אחד על הפרויקטים שלך: מתכנן, כותב, בודק וסוקר, ופונה אליך רק כשההחלטה שלך, בעברית פשוטה.
-להורדה: **[הגרסה האחרונה](https://github.com/mosheisraelov01-gif/devmarshal/releases/latest)**. המתקין ל-Windows
+להורדה: **[הגרסה האחרונה](https://github.com/MBdeveleopmentS/devmarshal/releases/latest)**. המתקין ל-Windows
 והתוכנה עצמה זמינים בעברית ובאנגלית.
 
 ## Security

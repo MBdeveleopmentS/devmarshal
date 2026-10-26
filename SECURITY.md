@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 Please **do not** open a public issue. Report it privately through GitHub:
-**[Security → Report a vulnerability](https://github.com/mosheisraelov01-gif/devmarshal/security/advisories/new)**.
+**[Security → Report a vulnerability](https://github.com/MBdeveleopmentS/devmarshal/security/advisories/new)**.
 
 Include what you found, the version (Settings shows it), your operating system, and the steps to reproduce.
 We aim to answer within 7 days. A fix is released as soon as it is ready, and you are credited in the
